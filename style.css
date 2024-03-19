@@ -60,7 +60,7 @@ background: #380000;
     left: 147.5;
     top: 85.5;
     background: #360000;
-    animation: now 20s infinite steps(3600);
+    animation: now 3600s infinite steps(3600);
     transform-origin: 3px 65px;
 }
 
@@ -71,7 +71,7 @@ background: #380000;
     left: 148.5;
     top: 65;
     background: #360000;
-    animation: now 10s infinite steps(60);
+    animation: now 60s infinite steps(60);
      transform-origin: 1px 85px;
 }
 
@@ -82,7 +82,7 @@ background: #380000;
     left: 146.5;
     top:  95;
     background: #360000;
-    animation: now 30s infinite steps(43200);
+    animation: now 216000s infinite steps(43200);
      transform-origin: 4px 55px;
 }
 
