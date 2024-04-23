@@ -1,5 +1,7 @@
 .hasy{
 position: absolute;
+top: 500;
+left: 500;
 width: 300px;
 height: 300px;
 border-color: #360000;
@@ -7,14 +9,7 @@ border-width: 2px;
 border-style: groove;
 border-radius: 50%;
 background: #b8860b;
-}
-
-.st{
-    position: absolute;
-    top: 500;
-    left: 500;
-}
-    
+} 
 
 .onen{
     top: 2;
