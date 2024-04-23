@@ -9,6 +9,13 @@ border-radius: 50%;
 background: #b8860b;
 }
 
+.st{
+    position: absolute;
+    top: 300;
+    left: 500;
+}
+    
+
 .onen{
     top: 2;
     left: 134;
