@@ -12,7 +12,8 @@ background: #b8860b;
 } 
 
 .st{
-width: 100%
+display: flex;
+width: 100%;
 }
 
 .onen{
